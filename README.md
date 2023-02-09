@@ -20,7 +20,7 @@
 ### :man_technologist: About Me : I'm an aspiring junior Data Analyst/Scientiest from Greece.
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
--  ⚡ In my free time, I like working out 🏋️‍♂️ and watching movies 🎦
+-  ⚡ In my free time, I like working out 🏋️‍♂️, watching movies 🎦 and football games ⚽.
 -  📫: Reach me at my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganastasiadis/)
 
 ---
