@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me : I'm an aspiring junior Data Analyst/Scientiest from Greece.
+### :man_technologist: About Me : I'm an aspiring junior Data Analyst/Scientist from Greece.
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
 -  ⚡ In my free time, I like working out 🏋️‍♂️, watching movies 🎦 and football games ⚽.
