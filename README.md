@@ -16,7 +16,9 @@
 </div>
 
 ---
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ### :man_technologist: About Me : I'm an aspiring junior Data Analyst/Scientiest from Greece.
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
