@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ganastasiadis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="george.a.anastasiadis@gmail.com">
+  <a href="mailto:george.a.anastasiadis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
   </a>
   </div>
@@ -23,7 +23,7 @@
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
 -  ⚡ In my free time, I like working out 🏋️‍♂️, watching movies 🎦 and football games ⚽.
--  📫: Reach me at my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganastasiadis/)
+-  📫: Reach me at my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganastasiadis/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:george.a.anastasiadis@gmail.com)
 
 ---
 
