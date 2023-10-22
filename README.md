@@ -9,6 +9,7 @@ I'm George Anastasiadis, an Electrical and Computer Engineer from Greece.
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
 -  ⚡ In my free time, I like working out 🏋️‍♂️, watching movies 🎦 and football games ⚽.
+-  💻 Interested in Data Science and Web Development.
 -  📫: Reach me at my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganastasiadis/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:george.a.anastasiadis@gmail.com)
 
 ---
