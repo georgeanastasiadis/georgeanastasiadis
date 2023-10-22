@@ -1,22 +1,11 @@
-<div id="header" align="center">
-  <img src = "https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ganastasiadis/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:george.a.anastasiadis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
-  </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=georgeanastasiadis&style=flat-square&color=blue" alt=""/>
-
-</div>
-
----
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400"/>
 </div>
-### :man_technologist: About Me : I'm an aspiring junior Data Analyst/Scientist from Greece.
+
+<br>
+
+Hey Guys, <br>
+I'm George Anastasiadis, an Electrical and Computer Engineer from Greece.
 
 - 👨‍💼 I'm currently fulfilling my military obligations.
 -  ⚡ In my free time, I like working out 🏋️‍♂️, watching movies 🎦 and football games ⚽.
@@ -36,5 +25,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title"HTML5" alt ="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title"CSS" alt ="CSS" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title"JavaScript" alt ="JavScript" width="40" height="40"/>&nbsp;
 </div>
